@@ -1,0 +1,7 @@
+{
+  "name": "Chat0800",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
