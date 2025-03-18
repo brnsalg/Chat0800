@@ -1,0 +1,24 @@
+div.logo {
+  margin: 5vh 0 2vh 0;
+  img {
+    height: 25vh;
+  }
+}
+
+div.signup {
+  margin-top: 5vh;
+  ion-text {
+    font-size: 0.9rem;
+    vertical-align: -webkit-baseline-middle;
+  }
+  ion-button {
+    --padding-start: 0;
+    text-transform: none;
+  }
+}
+
+ion-footer {
+  ion-toolbar {
+    --background: white;
+  }
+}
